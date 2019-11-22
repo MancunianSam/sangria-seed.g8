@@ -1,0 +1,1 @@
+addSbtPlugin("gov.nationalarchives" %% "sbt-sangriaschemagen" % "0.1-SNAPSHOT")
